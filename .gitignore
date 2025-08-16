@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# envs
+.env
+.venv
+venv/
+ENV/
+env/
+
+# vscode/cursor
+.vscode/
+.cursor/
+
+# logs
+*.log
+
+# coverage
+.coverage
+htmlcov/
+
